@@ -1,9 +1,0 @@
-FontEnd
-- Sau khi giải nén, mở thư mục, mở terminal dùng lệnh cd để trỏ đến danh mục travel-blog 
-- Chạy lệnh npm start
-BackEnd
-- Sau khi giải nén thư mục, tải ngôn ngữ Go và thiết lập môi trường
-- Sau đó thiết lập để kết nối database:
-	+ Mở xampp, chạy mysql và tạo database tên là travelblog-golang
-	+ chọn database, chọn Import và chọn file travelblog-golang.sql và nhấn Import
-- Chạy lệnh go run .\main.go để chạy chương trình
